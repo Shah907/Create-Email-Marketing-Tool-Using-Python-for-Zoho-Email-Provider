@@ -1,6 +1,6 @@
 # Create-Email-Marketing-Tool-Using-Python-for-Zoho-Email-Provider
 Create Email Marketing Tool Using Python for Zoho Email Provider
-Source: See Complete Guide here at ('deepdecide.com/free-email-marketing-tool-for-wordpress-using-python')
+Source: See Complete Guide here at ('https://deepdecide.com/free-email-marketing-tool-for-wordpress-using-python')
 
 import requests
 import smtplib
